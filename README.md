@@ -45,7 +45,7 @@ Hi there! I am a passionate and dedicated computer science student, constantly h
 
 ## 🔗 Connect with Me  
  
-- 📧 **Email:** [ridwanshuvo38@gmail.com]  
+- 📧 **Gmail:** [ridwanshuvo38@gmail.com]  
 
 ---
 
