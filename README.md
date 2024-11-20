@@ -2,7 +2,9 @@
 
 🎓 **Bachelor of Science in Computer Science and Engineering**  
 🏫 **Currently studying at HSTU**  
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=RidwanShuvo.RidwanShuvo)
+
+![Profile Views](https://komarev.com/ghpvc/?username=RidwanShuvo&color=blue)
+
 ###
 
 <div align="center">
